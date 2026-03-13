@@ -2,7 +2,7 @@
 A privacy-first prediction market built on Aleo.
 
 ## What is PrivatePredict?
-PrivatePredict is an adaptation of [SocialPredict](https://github.com/openpredictionmarkets/socialpredict) — an open source prediction market engine — with a core privacy layer added using Aleo's zero-knowledge proof system.
+PrivatePredict — an open source prediction market engine — with a core privacy layer added using Aleo's zero-knowledge proof system.
 
 Users place bets on prediction markets **privately**. Their outcome and amount are never visible on-chain. Only a ZK proof exists on the Aleo network.
 
@@ -20,5 +20,4 @@ Users place bets on prediction markets **privately**. Their outcome and amount a
 - Prover: Node.js + @provablehq/sdk
 
 ## Based On
-- [SocialPredict](https://github.com/openpredictionmarkets/socialpredict) — MIT License
 - [Aleo](https://aleo.org) — ZK blockchain
